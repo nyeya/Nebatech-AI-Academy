@@ -175,6 +175,47 @@ This document describes a practical, actionable AI integration plan for a compet
   * Basic AI feedback (lint/test-based) and facilitator verification workflow.
   * Student portfolio & badge issuance pipeline.
 
+  Admissions & Enrollment Workflow
+Overview
+
+Nebatech AI Academy operates on a controlled enrollment model, where students apply for admission into their chosen program and are approved by an administrator or admissions officer before gaining access to learning modules. This ensures each learner is properly registered, verified, and assigned to the correct program and facilitator.
+
+Student Application Flow
+
+Account Registration
+
+A new student creates an account on the Nebatech AI Academy portal.
+
+Required details include:
+Full Name, Email, Phone, Country, Educational Background, Desired Program, Referral Source.
+
+Program Application
+
+After account creation, the student applies for a specific program (e.g., Front-End Development, Database Administration, etc.).
+
+Optional uploads: ID, transcripts, or motivation statement.
+
+
+Administrator Review & Approval
+
+Admin or facilitator reviews application data.
+
+Approve / Reject / Request More Info.
+
+Upon approval, the learner receives a welcome email and platform access.
+
+Automated Enrollment
+
+Once approved, the learner is enrolled into:
+
+Chosen program and cohort.
+
+Assigned facilitator(s).
+
+Initial orientation or foundation module.
+
+
+
 ### Phase B — Scale & Personalize
 
 * Deliverables:
